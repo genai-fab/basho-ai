@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import json
 
-st.title("My First AI App - Haiku Edition")
+st.title("Basho AI - Haiku Edition")
 
 # Text input for the user's prompt
 user_question = st.text_input("Ask the AI anything:")

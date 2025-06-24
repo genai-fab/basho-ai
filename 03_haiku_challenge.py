@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import json
 
-st.title("Haiku Challenge")
+st.title("Basho AI - Haiku Challenge")
 st.write("Get an AI-generated theme, write a haiku, and see how you did!")
 
 # Button to get a new AI-generated theme
